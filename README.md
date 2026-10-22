@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="docs/store_icon_512.png" alt="Rytmo Music Player Icon" width="120" style="border-radius: 20%;" />
+  <img src="docs/rytmo_icon.png" alt="Rytmo Music Player Icon" width="120" style="border-radius: 20%;" />
 
   # Rytmo Music Player
   ### Powerful offline music player with smart shuffle, audio tag editor & themes.
